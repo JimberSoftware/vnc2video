@@ -3,7 +3,7 @@ package vnc2video
 import (
 	"encoding/binary"
 	"net"
-	"vnc2video/logger"
+	"github.com/amitbet/vnc2video/logger"
 
 	"io"
 	"time"
